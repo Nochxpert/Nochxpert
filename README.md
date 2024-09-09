@@ -11,7 +11,7 @@
 ## Skills and Technologies
 - **Cloud Platforms:** AWS (EC2, S3, Lambda)
 - **Programming Languages:** Python, JavaScript
-- **Tools and Technologies:** Git, Docker
+- **Tools and Technologies:** Git, Proxmox VE
 - **Certifications:** AWS Certified Solutions Architect - Associate
 
 ## Notable Projects
@@ -19,4 +19,4 @@
 
 ## Goals
 - **Short-term:** Enhance my expertise in AWS and gain more hands-on experience with cloud infrastructure.
-- **Long-term:** Develop and lead cloud engineering projects and contribute to innovative solutions in the tech industry.
+- **Long-term:** Lead strategic cloud engineering initiatives and drive the development of cutting-edge solutions in the technology sector, with a dedicated focus on cloud security as a Cloud Security Engineer, while also progressing towards roles such as Cybersecurity Manager.
